@@ -1,4 +1,4 @@
-package com.feautures.java9to17.tryWithResourses;
+package com.feautures.java9to17.java9.tryWithResourses;
 
 public class TestMain {
     public static void main(String[] args) {
