@@ -1,4 +1,4 @@
-package com.feautures.java9to17.privateMethods;
+package com.feautures.java9to17.java9.privateMethods;
 
 import org.springframework.boot.SpringApplication;
 
